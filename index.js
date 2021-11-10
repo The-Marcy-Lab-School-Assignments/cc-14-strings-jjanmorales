@@ -11,5 +11,5 @@ const stripUpperCase = string => {
       lower += i;
     }
   }return lower;
-}
+};
 console.log(stripUpperCase('Hello!')); // 'ello!'
